@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>The Token Ring</title>
+	</head>
+	<body>
+    <h1>The Token Ring</h1>
+		<ol>
+			<li id="monoxane">
+				<a href="https://monoxane.io">monoxane</a>
+			</li>
+		</ol>
+		<footer>
+			<p class="readme">
+				This webring is an attempt to connect creatives and engineers across the Broadcast and IT industries, it aims to be a community that inspires and teaches and as such emphasizes <b>hand made sites, wikis, and portfolios</b>
+			</p>
+			<p>
+				To add yourself to the ring, submit a <a href="https://github.com/monoxane/tokenring#join-the-webring" target="_blank">pull request</a>.<br />
+				Found a broken link, please <a href="https://github.com/monoxane/tokenring/issues/new" target="_blank">report it</a>.<br /><br />
+			</p>
+			<img id="icon" src="icon.dark.svg" alt="icon"/>
+		</footer>
+		<style>
+			:root { --primary: #eeeeee; --secondary: #222222; }
+			body { padding: 0; margin: 0 0 0 0; background-color: var(--primary); color: var(--secondary); font-family: monospace; max-width: 900px; }
+			body a { color: var(--secondary); text-decoration: none; }
+			body a:hover { background-color: var(--secondary); color: var(--primary); }
+			body a:before { content: '{'; }
+			body a:after { content: '}'; }
+      body h1 {margin: 30px;}
+			body > ol { margin: 30px; padding: 0px 30px 30px; column-count: 3; display: block; border-bottom: 2px solid var(--secondary); }
+			body > ol > li { padding-right: 30px; }
+			body > ol > li img { display: none; margin:5px; max-width: 88px }
+			body > ol > li a:visited:before, body > ol > li a:visited:after { color: var(--primary); }
+			body > footer { margin: 30px; }
+			body > footer > p { max-width: 600px; }
+			body > footer > img { display: inline-block; width: 100px; margin-bottom: -5px; margin-bottom: 30px; }
+			body:target > footer > p > span.hide, html:target footer > p > span.hide { display: inline; }
+			body > ol:target > li > img { display:block; }
+			body > ol > li:target a { color: var(--primary); }
+			body > ol > li:target { background: var(--secondary); }
+			@media screen and (max-width: 800px) { body > ol { column-count: 2; } }
+			@media screen and (max-width: 600px) { body > ol { column-count: 1; } }
+			@media (prefers-color-scheme: dark) {
+        :root { --primary: #222222; --secondary: #eeeeee; }
+        /* #icon { filter: invert(100%); } */
+			}
+		</style>
+	</body>
+</html>
