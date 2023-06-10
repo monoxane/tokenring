@@ -19,14 +19,14 @@ Alternatively, if you your website has a light background, use `icon.light.svg`,
 
 ### Webring criteria
 
-Your website must contain an about page with ways to contact you.
-It must have some creative, educational, or technical content that isn't just blogs.
-It must reside on it's own domain (*.github.io and similar services will be rejected), 
-Single page sites will be rejected.
-Landing pages that just shove the user off to other social platforms will be rejected.
-If your site contains violent, racist, sexist, bigoted, or otherwise hateful content it will be rejected.
-Sites that require frontend JS for the majority of their content will probably be rejected unless they are of exceptional benefit to the community. You can use JS/Frameworks for extended content or webapps within the site, just don't rely on it for everything.
-Businesses will probably be rejected unless you provide services that benefit this community.
+- Your website must contain an about page with ways to contact you.
+- It must have some creative, educational, or technical content that isn't just blogs.
+- It must reside on it's own domain (*.github.io and similar services will be rejected), 
+- Single page sites will be rejected.
+- Landing pages that just shove the user off to other social platforms will be rejected.
+- If your site contains violent, racist, sexist, or otherwise hateful content it will be rejected.
+- Sites that require frontend JS for the majority of their content will probably be rejected unless they are of exceptional benefit to the community. You can use JS/Frameworks for extended content or webapps within the site, just don't rely on it for everything.
+- Businesses will probably be rejected unless you provide services that benefit this community.
 
 If your site violates this criteria after joining, you'll be removed from the ring. We will occasionally prune inactive sites from people we haven't seen in a while.
 
