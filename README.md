@@ -15,7 +15,7 @@ It was inspired by the [XXIIVV ring](https://webring.xxiivv.com/) which is a won
 2) Add your website information to the [index.html](index.html) file. Keep your link name short, and don't leave a trailing `/` in the `href` attribute. Use a sensible value for the `id` attribute like your username or site name.
 3) Submit a Pull Request with **the location of the webring icon** on your site. Pull requests with blank descriptions will be rejected.
 
-Alternatively, if you your website has a dark background, use `icon.white.svg`. If your website is complaining about *https*, go ahead and host the icon yourself.
+Alternatively, if you your website has a light background, use `icon.light.svg`, there's also 2 with colour if you so desire.
 
 ### Webring criteria
 
