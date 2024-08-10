@@ -26,7 +26,7 @@ Alternatively, if you your website has a light background, use `icon.light.svg`,
 - Landing pages that just shove the user off to other social platforms will be rejected.
 - If your site contains violent, racist, sexist, or otherwise hateful content it will be rejected.
 - Businesses will probably be rejected unless you provide services that benefit this community.
-
+- The use of Generative AI is banned, you can get in the sea.
 If your site violates this criteria after joining, you'll be removed from the ring. We will occasionally prune inactive sites from people we haven't seen in a while.
 
 ## Help
